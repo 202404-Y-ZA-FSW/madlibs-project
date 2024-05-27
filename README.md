@@ -6,9 +6,7 @@ See [wikipedia](https://en.wikipedia.org/wiki/Mad_Libs). Yes, I know this sectio
 
 ## Instructions
 
-### Collaboration requirements
-
-Please don't split the code. Write every line of code together. In each group, every person should understand every line of code. See [pair programming](Pair_programming). The rule of thumb is like so: if I ask any person about any line of code, that person should be able to answer it.
+#### This is an individual project. Each student will work on the project on their own. Keeping in mind that you can always help each other out but every student needs to have their own repository.
 
 ### Write a story
 
